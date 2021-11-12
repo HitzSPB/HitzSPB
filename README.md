@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey, welcome to my profile 😎
 
-<!--
-**HitzSPB/HitzSPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Osterbro and I'm a Solution Architect with passion for quality and DevOPS. I am 27 years old and dedicated towards my career, what uses 80 percent of all my time and the last 20 goes to my girlfriend. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- C#
+- React/JS/TS
+- SQL
+- Powershell
+- Visual Studio
+- Visual Studio Code
+- CODA
+- Office suite
+- Azure
+- Azure DevOPS Server/Services
+- 
+And many more
